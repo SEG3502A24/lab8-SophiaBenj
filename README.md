@@ -1,3 +1,6 @@
+# Sophia Benjelloun
+# 300233943
+
 # EmployeeApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
